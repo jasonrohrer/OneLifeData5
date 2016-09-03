@@ -1,5 +1,5 @@
-id=1
-Female 002
+id=4
+Male 001
 containable=0
 containSize=1
 permanent=0
@@ -9,7 +9,7 @@ mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
 person=4
-male=0
+male=1
 deathMarker=0
 foodValue=0
 speedMult=1.000000
@@ -236,8 +236,8 @@ color=1.000000,1.000000,1.000000
 ageRange=14.000000,999.000000
 parent=24
 invisHolding=0
-spriteID=72
-pos=4.000000,73.000000
+spriteID=73
+pos=6.000000,74.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
